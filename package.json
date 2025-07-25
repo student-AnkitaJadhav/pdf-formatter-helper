@@ -1,0 +1,22 @@
+{
+  "name": "pdf-formatter-helper",
+  "version": "1.0.2",
+  "main": "lib/generateReport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "pdfkit",
+    "report",
+    "employee",
+    "formatter",
+    "attendance"
+  ],
+  "author": "Ankita Jadhav",
+  "license": "ISC",
+  "description": "A helper package to generate clean and formatted employee PDF reports using PDFKit.",
+  "dependencies": {
+    "pdfkit": "^0.17.1"
+  }
+}
